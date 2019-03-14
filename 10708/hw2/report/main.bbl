@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{lafferty2001crf}
+John Lafferty, Andrew McCallum, and Fernando~CN Pereira.
+\newblock Conditional random fields: Probabilistic models for segmenting and
+  labeling sequence data.
+\newblock 2001.
+
+\bibitem{petrov2011universal}
+Slav Petrov, Dipanjan Das, and Ryan McDonald.
+\newblock A universal part-of-speech tagset.
+\newblock {\em arXiv preprint arXiv:1104.2086}, 2011.
+
+\bibitem{blei2003latent}
+David~M Blei, Andrew~Y Ng, and Michael~I Jordan.
+\newblock Latent dirichlet allocation.
+\newblock {\em Journal of machine Learning research}, 3(Jan):993--1022, 2003.
+
+\bibitem{doi:10.1080/02664760802684177}
+Gianluca Baio and Marta Blangiardo.
+\newblock Bayesian hierarchical model for the prediction of football results.
+\newblock {\em Journal of Applied Statistics}, 37(2):253--264, 2010.
+
+\end{thebibliography}
