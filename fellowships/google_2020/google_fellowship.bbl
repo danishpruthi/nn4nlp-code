@@ -1,0 +1,117 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Caruana et~al.(2015)Caruana, Lou, Gehrke, Koch, Sturm, and
+  Elhadad]{caruana2015intelligible}
+Rich Caruana, Yin Lou, Johannes Gehrke, Paul Koch, Marc Sturm, and Noemie
+  Elhadad.
+\newblock Intelligible models for healthcare: Predicting pneumonia risk and
+  hospital 30-day readmission.
+\newblock In \emph{Proceedings of the 21th ACM SIGKDD international conference
+  on knowledge discovery and data mining}, pages 1721--1730, 2015.
+
+\bibitem[Dzindolet et~al.(2003)Dzindolet, Peterson, Pomranky, Pierce, and
+  Beck]{dzindolet2003role}
+Mary~T Dzindolet, Scott~A Peterson, Regina~A Pomranky, Linda~G Pierce, and
+  Hall~P Beck.
+\newblock The role of trust in automation reliance.
+\newblock \emph{International journal of human-computer studies}, 58\penalty0
+  (6):\penalty0 697--718, 2003.
+
+\bibitem[Garrard et~al.(2001)Garrard, Lambon~Ralph, Hodges, and
+  Patterson]{garrard2001prototypicality}
+Peter Garrard, Matthew~A Lambon~Ralph, John~R Hodges, and Karalyn Patterson.
+\newblock Prototypicality, distinctiveness, and intercorrelation: Analyses of
+  the semantic attributes of living and nonliving concepts.
+\newblock \emph{Cognitive neuropsychology}, 18\penalty0 (2):\penalty0 125--174,
+  2001.
+
+\bibitem[Herlocker et~al.(2000)Herlocker, Konstan, and
+  Riedl]{herlocker2000explaining}
+Jonathan~L Herlocker, Joseph~A Konstan, and John Riedl.
+\newblock Explaining collaborative filtering recommendations.
+\newblock In \emph{Proceedings of the 2000 ACM conference on Computer supported
+  cooperative work}, pages 241--250, 2000.
+
+\bibitem[Kaushik et~al.(2019)Kaushik, Hovy, and Lipton]{kaushik2019learning}
+Divyansh Kaushik, Eduard Hovy, and Zachary~C Lipton.
+\newblock Learning the difference that makes a difference with
+  counterfactually-augmented data.
+\newblock \emph{arXiv preprint arXiv:1909.12434}, 2019.
+
+\bibitem[Lafferty et~al.(2001)Lafferty, McCallum, and
+  Pereira]{lafferty2001conditional}
+John Lafferty, Andrew McCallum, and Fernando~CN Pereira.
+\newblock Conditional random fields: Probabilistic models for segmenting and
+  labeling sequence data.
+\newblock \emph{18th International Conference on Machine Learning 2001 (ICML
+  2001)}, 2001.
+
+\bibitem[Lehman et~al.(2019)Lehman, DeYoung, Barzilay, and
+  Wallace]{lehman2019inferring}
+Eric Lehman, Jay DeYoung, Regina Barzilay, and Byron~C Wallace.
+\newblock Inferring which medical treatments work from reports of clinical
+  trials.
+\newblock \emph{arXiv preprint arXiv:1904.01606}, 2019.
+
+\bibitem[Lei et~al.(2016)Lei, Barzilay, and Jaakkola]{lei2016rationalizing}
+Tao Lei, Regina Barzilay, and Tommi Jaakkola.
+\newblock Rationalizing neural predictions.
+\newblock \emph{Proceedings of the conference on Empirical methods in natural
+  language processing}, 2016.
+
+\bibitem[Lipton(2018)]{lipton2018mythos}
+Zachary~C Lipton.
+\newblock The mythos of model interpretability.
+\newblock \emph{Queue}, 16\penalty0 (3):\penalty0 31--57, 2018.
+
+\bibitem[McRae et~al.(2005)McRae, Cree, Seidenberg, and
+  McNorgan]{mcrae2005semantic}
+Ken McRae, George~S Cree, Mark~S Seidenberg, and Chris McNorgan.
+\newblock Semantic feature production norms for a large set of living and
+  nonliving things.
+\newblock \emph{Behavior research methods}, 37\penalty0 (4):\penalty0 547--559,
+  2005.
+
+\bibitem[Pruthi et~al.(2018)Pruthi, Subramanian, Jhamtani, Berg-Kirkpatrick,
+  and Hovy]{pruthi2018spine}
+Danish Pruthi, Anant Subramanian, Harsh Jhamtani, Taylor Berg-Kirkpatrick, and
+  Eduard Hovy.
+\newblock Spine: Sparse interpretable neural embeddings.
+\newblock In \emph{Thirty-Second AAAI Conference on Artificial Intelligence},
+  2018.
+
+\bibitem[Pruthi et~al.(2020)Pruthi, Gupta, Dhingra, Neubig, and
+  Lipton]{pruthi19learning}
+Danish Pruthi, Mansi Gupta, Bhuwan Dhingra, Graham Neubig, and Zachary~C.
+  Lipton.
+\newblock Learning to deceive with attention-based explanations.
+\newblock In \emph{Annual Conference of the Association for Computational
+  Linguistics (ACL)}, July 2020.
+\newblock URL \url{https://arxiv.org/abs/1909.07913}.
+
+\bibitem[Ribeiro et~al.(2016)Ribeiro, Singh, and Guestrin]{ribeiro2016should}
+Marco~Tulio Ribeiro, Sameer Singh, and Carlos Guestrin.
+\newblock " why should i trust you?" explaining the predictions of any
+  classifier.
+\newblock In \emph{Proceedings of the 22nd ACM SIGKDD international conference
+  on knowledge discovery and data mining}, pages 1135--1144, 2016.
+
+\bibitem[Simonyan et~al.(2013)Simonyan, Vedaldi, and
+  Zisserman]{simonyan2013deep}
+Karen Simonyan, Andrea Vedaldi, and Andrew Zisserman.
+\newblock Deep inside convolutional networks: Visualising image classification
+  models and saliency maps.
+\newblock \emph{arXiv preprint arXiv:1312.6034}, 2013.
+
+\bibitem[Weld and Bansal(2019)]{weld2019challenge}
+Daniel~S Weld and Gagan Bansal.
+\newblock The challenge of crafting intelligible intelligence.
+\newblock \emph{Communications of the ACM}, 62\penalty0 (6):\penalty0 70--79,
+  2019.
+
+\end{thebibliography}
